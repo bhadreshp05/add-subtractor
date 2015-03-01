@@ -1,3 +1,3 @@
 # Add Subtractor
 
-# run 'npm install'
+## run 'npm install' then 'grunt serve' in command line
